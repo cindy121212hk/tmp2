@@ -1,7 +1,7 @@
 var loggername = 'a';
 
 function log(message) {
-    console.log(message2345);
+    console.log(message234_hi);
 };
 
 module.exports = {
